@@ -1,0 +1,29 @@
+[0.020s] Invoking command in '/home/luky/ws_foxy/build/my_bot': /usr/bin/cmake --build /home/luky/ws_foxy/build/my_bot -- -j12 -l12
+[0.121s] Invoked command in '/home/luky/ws_foxy/build/my_bot' returned '0': /usr/bin/cmake --build /home/luky/ws_foxy/build/my_bot -- -j12 -l12
+[0.149s] Invoking command in '/home/luky/ws_foxy/build/my_bot': /usr/bin/cmake --install /home/luky/ws_foxy/build/my_bot
+[0.157s] -- Install configuration: ""
+[0.158s] -- Execute custom install script
+[0.159s] -- Up-to-date symlink: /home/luky/ws_foxy/install/my_bot/share/my_bot/config/config.rviz
+[0.159s] -- Up-to-date symlink: /home/luky/ws_foxy/install/my_bot/share/my_bot/description/colours.xacro
+[0.159s] -- Symlinking: /home/luky/ws_foxy/install/my_bot/share/my_bot/description/gazebo_control.xacro
+[0.168s] -- Up-to-date symlink: /home/luky/ws_foxy/install/my_bot/share/my_bot/description/inertial_macros.xacro
+[0.168s] -- Up-to-date symlink: /home/luky/ws_foxy/install/my_bot/share/my_bot/description/robot.urdf.xacro
+[0.168s] -- Up-to-date symlink: /home/luky/ws_foxy/install/my_bot/share/my_bot/description/robot_core.xacro
+[0.168s] -- Up-to-date symlink: /home/luky/ws_foxy/install/my_bot/share/my_bot/launch/launch.py
+[0.169s] -- Up-to-date symlink: /home/luky/ws_foxy/install/my_bot/share/my_bot/launch/launch_sim.py
+[0.169s] -- Up-to-date symlink: /home/luky/ws_foxy/install/my_bot/share/ament_index/resource_index/package_run_dependencies/my_bot
+[0.169s] -- Up-to-date symlink: /home/luky/ws_foxy/install/my_bot/share/ament_index/resource_index/parent_prefix_path/my_bot
+[0.169s] -- Up-to-date symlink: /home/luky/ws_foxy/install/my_bot/share/my_bot/environment/ament_prefix_path.sh
+[0.170s] -- Up-to-date symlink: /home/luky/ws_foxy/install/my_bot/share/my_bot/environment/ament_prefix_path.dsv
+[0.170s] -- Up-to-date symlink: /home/luky/ws_foxy/install/my_bot/share/my_bot/environment/path.sh
+[0.170s] -- Up-to-date symlink: /home/luky/ws_foxy/install/my_bot/share/my_bot/environment/path.dsv
+[0.170s] -- Up-to-date symlink: /home/luky/ws_foxy/install/my_bot/share/my_bot/local_setup.bash
+[0.171s] -- Up-to-date symlink: /home/luky/ws_foxy/install/my_bot/share/my_bot/local_setup.sh
+[0.171s] -- Up-to-date symlink: /home/luky/ws_foxy/install/my_bot/share/my_bot/local_setup.zsh
+[0.171s] -- Up-to-date symlink: /home/luky/ws_foxy/install/my_bot/share/my_bot/local_setup.dsv
+[0.171s] -- Symlinking: /home/luky/ws_foxy/install/my_bot/share/my_bot/package.dsv
+[0.179s] -- Up-to-date symlink: /home/luky/ws_foxy/install/my_bot/share/ament_index/resource_index/packages/my_bot
+[0.179s] -- Up-to-date symlink: /home/luky/ws_foxy/install/my_bot/share/my_bot/cmake/my_botConfig.cmake
+[0.180s] -- Up-to-date symlink: /home/luky/ws_foxy/install/my_bot/share/my_bot/cmake/my_botConfig-version.cmake
+[0.180s] -- Up-to-date symlink: /home/luky/ws_foxy/install/my_bot/share/my_bot/package.xml
+[0.182s] Invoked command in '/home/luky/ws_foxy/build/my_bot' returned '0': /usr/bin/cmake --install /home/luky/ws_foxy/build/my_bot

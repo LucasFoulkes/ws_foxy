@@ -1,0 +1,4 @@
+Invoking command in '/home/luky/ws_foxy/build/my_bot': /usr/bin/cmake --build /home/luky/ws_foxy/build/my_bot -- -j12 -l12
+Invoked command in '/home/luky/ws_foxy/build/my_bot' returned '0': /usr/bin/cmake --build /home/luky/ws_foxy/build/my_bot -- -j12 -l12
+Invoking command in '/home/luky/ws_foxy/build/my_bot': /usr/bin/cmake --install /home/luky/ws_foxy/build/my_bot
+Invoked command in '/home/luky/ws_foxy/build/my_bot' returned '0': /usr/bin/cmake --install /home/luky/ws_foxy/build/my_bot

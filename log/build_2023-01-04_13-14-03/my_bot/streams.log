@@ -1,0 +1,42 @@
+[0.019s] Invoking command in '/home/luky/ws_foxy/build/my_bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake /home/luky/ws_foxy/src/my_bot -DCMAKE_INSTALL_PREFIX=/home/luky/ws_foxy/install/my_bot
+[0.063s] -- Found ament_cmake: 0.9.11 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.089s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.270s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.292s] -- Found ament_lint_auto: 0.9.7 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[0.368s] -- Added test 'copyright' to check source files copyright and LICENSE
+[0.370s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.370s] -- Added test 'lint_cmake' to check CMake code style
+[0.371s] -- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+[0.372s] -- Added test 'xmllint' to check XML markup files
+[0.375s] -- Configuring done
+[0.381s] -- Generating done
+[0.382s] -- Build files have been written to: /home/luky/ws_foxy/build/my_bot
+[0.385s] Invoked command in '/home/luky/ws_foxy/build/my_bot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake /home/luky/ws_foxy/src/my_bot -DCMAKE_INSTALL_PREFIX=/home/luky/ws_foxy/install/my_bot
+[0.389s] Invoking command in '/home/luky/ws_foxy/build/my_bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/luky/ws_foxy/build/my_bot -- -j12 -l12
+[0.422s] Invoked command in '/home/luky/ws_foxy/build/my_bot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/luky/ws_foxy/build/my_bot -- -j12 -l12
+[0.452s] Invoking command in '/home/luky/ws_foxy/build/my_bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/luky/ws_foxy/build/my_bot
+[0.459s] -- Install configuration: ""
+[0.460s] -- Execute custom install script
+[0.460s] -- Up-to-date symlink: /home/luky/ws_foxy/install/my_bot/share/my_bot/config/config.rviz
+[0.461s] -- Up-to-date symlink: /home/luky/ws_foxy/install/my_bot/share/my_bot/description/colours.xacro
+[0.461s] -- Up-to-date symlink: /home/luky/ws_foxy/install/my_bot/share/my_bot/description/inertial_macros.xacro
+[0.461s] -- Up-to-date symlink: /home/luky/ws_foxy/install/my_bot/share/my_bot/description/robot.urdf.xacro
+[0.462s] -- Up-to-date symlink: /home/luky/ws_foxy/install/my_bot/share/my_bot/description/robot_core.xacro
+[0.462s] -- Up-to-date symlink: /home/luky/ws_foxy/install/my_bot/share/my_bot/launch/launch.py
+[0.462s] -- Symlinking: /home/luky/ws_foxy/install/my_bot/share/my_bot/launch/launch_sim.py
+[0.471s] -- Up-to-date symlink: /home/luky/ws_foxy/install/my_bot/share/ament_index/resource_index/package_run_dependencies/my_bot
+[0.471s] -- Up-to-date symlink: /home/luky/ws_foxy/install/my_bot/share/ament_index/resource_index/parent_prefix_path/my_bot
+[0.471s] -- Up-to-date symlink: /home/luky/ws_foxy/install/my_bot/share/my_bot/environment/ament_prefix_path.sh
+[0.472s] -- Up-to-date symlink: /home/luky/ws_foxy/install/my_bot/share/my_bot/environment/ament_prefix_path.dsv
+[0.472s] -- Up-to-date symlink: /home/luky/ws_foxy/install/my_bot/share/my_bot/environment/path.sh
+[0.472s] -- Up-to-date symlink: /home/luky/ws_foxy/install/my_bot/share/my_bot/environment/path.dsv
+[0.472s] -- Up-to-date symlink: /home/luky/ws_foxy/install/my_bot/share/my_bot/local_setup.bash
+[0.473s] -- Up-to-date symlink: /home/luky/ws_foxy/install/my_bot/share/my_bot/local_setup.sh
+[0.473s] -- Up-to-date symlink: /home/luky/ws_foxy/install/my_bot/share/my_bot/local_setup.zsh
+[0.473s] -- Up-to-date symlink: /home/luky/ws_foxy/install/my_bot/share/my_bot/local_setup.dsv
+[0.473s] -- Symlinking: /home/luky/ws_foxy/install/my_bot/share/my_bot/package.dsv
+[0.483s] -- Up-to-date symlink: /home/luky/ws_foxy/install/my_bot/share/ament_index/resource_index/packages/my_bot
+[0.484s] -- Up-to-date symlink: /home/luky/ws_foxy/install/my_bot/share/my_bot/cmake/my_botConfig.cmake
+[0.484s] -- Up-to-date symlink: /home/luky/ws_foxy/install/my_bot/share/my_bot/cmake/my_botConfig-version.cmake
+[0.484s] -- Up-to-date symlink: /home/luky/ws_foxy/install/my_bot/share/my_bot/package.xml
+[0.487s] Invoked command in '/home/luky/ws_foxy/build/my_bot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/luky/ws_foxy/build/my_bot

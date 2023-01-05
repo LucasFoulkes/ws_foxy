@@ -1,0 +1,6 @@
+<robot xmlns:xacro="http://www.ros.org/wiki/xacro" name="my_bot">
+    <xacro:include filename="colours.xacro" />
+    <xacro:include filename="inertial_macros.xacro" />
+    <xacro:include filename="robot_core.xacro" />
+    <xacro:include filename="gazebo_control.xacro" />
+</robot>

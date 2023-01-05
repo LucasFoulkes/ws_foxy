@@ -1,0 +1,48 @@
+[0.041s] Invoking command in '/home/luky/ws_foxy/build/my_bot': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/luky/ws_foxy/src/my_bot -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/luky/ws_foxy/install/my_bot
+[0.759s] -- The C compiler identification is GNU 9.4.0
+[1.735s] -- The CXX compiler identification is GNU 9.4.0
+[2.198s] -- Check for working C compiler: /usr/bin/cc
+[2.672s] -- Check for working C compiler: /usr/bin/cc -- works
+[2.686s] -- Detecting C compiler ABI info
+[3.148s] -- Detecting C compiler ABI info - done
+[3.172s] -- Detecting C compile features
+[3.173s] -- Detecting C compile features - done
+[3.179s] -- Check for working CXX compiler: /usr/bin/c++
+[3.616s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[3.617s] -- Detecting CXX compiler ABI info
+[4.061s] -- Detecting CXX compiler ABI info - done
+[4.086s] -- Detecting CXX compile features
+[4.086s] -- Detecting CXX compile features - done
+[4.096s] -- Found ament_cmake: 0.9.11 (/opt/ros/foxy/share/ament_cmake/cmake)
+[4.128s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[4.128s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[4.345s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[4.397s] -- Found ament_lint_auto: 0.9.7 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[4.499s] -- Added test 'copyright' to check source files copyright and LICENSE
+[4.503s] -- Added test 'lint_cmake' to check CMake code style
+[4.505s] -- Added test 'xmllint' to check XML markup files
+[4.508s] -- Configuring done
+[4.511s] -- Generating done
+[4.511s] -- Build files have been written to: /home/luky/ws_foxy/build/my_bot
+[4.516s] Invoked command in '/home/luky/ws_foxy/build/my_bot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/luky/ws_foxy/src/my_bot -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/luky/ws_foxy/install/my_bot
+[4.519s] Invoking command in '/home/luky/ws_foxy/build/my_bot': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/luky/ws_foxy/build/my_bot -- -j12 -l12
+[4.558s] Invoked command in '/home/luky/ws_foxy/build/my_bot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/luky/ws_foxy/build/my_bot -- -j12 -l12
+[4.591s] Invoking command in '/home/luky/ws_foxy/build/my_bot': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/luky/ws_foxy/build/my_bot
+[4.599s] -- Install configuration: ""
+[4.599s] -- Execute custom install script
+[4.601s] -- Symlinking: /home/luky/ws_foxy/install/my_bot/share/ament_index/resource_index/package_run_dependencies/my_bot
+[4.609s] -- Symlinking: /home/luky/ws_foxy/install/my_bot/share/ament_index/resource_index/parent_prefix_path/my_bot
+[4.619s] -- Symlinking: /home/luky/ws_foxy/install/my_bot/share/my_bot/environment/ament_prefix_path.sh
+[4.628s] -- Symlinking: /home/luky/ws_foxy/install/my_bot/share/my_bot/environment/ament_prefix_path.dsv
+[4.640s] -- Symlinking: /home/luky/ws_foxy/install/my_bot/share/my_bot/environment/path.sh
+[4.650s] -- Symlinking: /home/luky/ws_foxy/install/my_bot/share/my_bot/environment/path.dsv
+[4.659s] -- Symlinking: /home/luky/ws_foxy/install/my_bot/share/my_bot/local_setup.bash
+[4.669s] -- Symlinking: /home/luky/ws_foxy/install/my_bot/share/my_bot/local_setup.sh
+[4.677s] -- Symlinking: /home/luky/ws_foxy/install/my_bot/share/my_bot/local_setup.zsh
+[4.687s] -- Symlinking: /home/luky/ws_foxy/install/my_bot/share/my_bot/local_setup.dsv
+[4.696s] -- Symlinking: /home/luky/ws_foxy/install/my_bot/share/my_bot/package.dsv
+[4.706s] -- Symlinking: /home/luky/ws_foxy/install/my_bot/share/ament_index/resource_index/packages/my_bot
+[4.715s] -- Symlinking: /home/luky/ws_foxy/install/my_bot/share/my_bot/cmake/my_botConfig.cmake
+[4.724s] -- Symlinking: /home/luky/ws_foxy/install/my_bot/share/my_bot/cmake/my_botConfig-version.cmake
+[4.733s] -- Symlinking: /home/luky/ws_foxy/install/my_bot/share/my_bot/package.xml
+[4.744s] Invoked command in '/home/luky/ws_foxy/build/my_bot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/luky/ws_foxy/build/my_bot
